@@ -14,6 +14,6 @@ PwmOut   PWM1 (D3);
 
 int main()
 {
-        PWM1.period(0.010);
-        PWM1=0.5;
+        PWM1.period(0.020);
+        PWM1=0.8;
 }
